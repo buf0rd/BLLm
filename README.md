@@ -1,2 +1,2 @@
 <img src="https://it.buf0rd.com/blog/images/bllm300.png">
-Buford Learning Language... model  (or something)
+Buford Laaaarge Language... model  (or something)
